@@ -11,6 +11,11 @@ Devices Running Windows, MacOS or Linux
 - Balena Etcher [Here](https://www.balena.io/)
 - MacOS Vanilla Images Ver(12 - 13) [Here](https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos-installer/)
 
+## Changelog
+### 2023/01/10
+
+    1、Initial Release
+
 ## Preview
 
 <img src=https://github.com/Anemonastrum/Asrock-B560M-HACKINTOSH/blob/main/Screenshoot1.png width="auto" height="auto"/>
