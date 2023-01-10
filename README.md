@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img src=https://github.com/Anemonastrum/Asrock-B560M-HACKINTOSH/blob/main/Screenshoot1.png width="1920" height="1080"/>
+<img src=https://github.com/Anemonastrum/Asrock-B560M-HACKINTOSH/blob/main/Screenshoot1.png width="auto" height="auto"/>
 
 ## Configuration
 
