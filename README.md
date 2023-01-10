@@ -57,6 +57,8 @@ BIOS Configuration
 
 ## Current Status
 
+Stable Enough to be used as Daily Driver!
+
 | Things | Status                                                  |
 | ------------------- | ------------------------------------------- |
 | Airdrop | Working |
@@ -73,5 +75,16 @@ BIOS Configuration
 | Bluetooth | Working |
 | dGPU Display Out | Working |
 | Onboard Display Out | Not Working |
+
+## Installation
+
+- Get all the Prerequisite
+- Download the latest EFI release suitable for your MacOS Version want to install
+- Configure the Serial Number, ETC to the config
+- Flash the MacOS image to the flashdrive
+- Mount the flashdrive EFI partition
+- Copy the EFI configuration to the flashdrive EFI partition'
+- Unmount the flashdrive EFI parition
+- Boot the flashdrive and install :)
 
 
