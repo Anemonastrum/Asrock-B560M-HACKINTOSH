@@ -1,12 +1,22 @@
 # Asrock-B560M-HACKINTOSH
 
+## Prerequisite
+
+Devices Running Windows, MacOS or Linux
+- Python
+- Propper tree (for editing config to add serial number)
+- EFI mounter tools (ex. Minitool Partition Wiz)
+- Flashdrive 16GB or higher
+- Balena Etcher
+- MacOS Vanilla Images Ver(12 - 13)
+
 ## Preview
 
 <img src=https://github.com/Anemonastrum/Asrock-B560M-HACKINTOSH/blob/main/Screenshoot1.png width="auto" height="auto"/>
 
 ## Configuration
 
-#PC Configuration
+PC Configuration
 
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
@@ -20,7 +30,7 @@
 | Wireless Card | Broadcom BCM94360NG WIFI 5 |
 | Ethernet | Intel I219V |
 
-#Bootloader Configuration
+Bootloader Configuration
 
 | Config | Detail                                                  |
 | ------------------- | ------------------------------------------- |
@@ -28,7 +38,7 @@
 | SMBIOS model | iMac20,1 |
 | Supported MacOS | Monterey - Ventura |
 
-#BIOS Configuration
+BIOS Configuration
 
 | Config | Detail                                                  |
 | ------------------- | ------------------------------------------- |
@@ -47,5 +57,8 @@
 
 ## Current Status
 
-All Working Fine!!
+| Things | Status                                                  |
+| ------------------- | ------------------------------------------- |
+| Airdrop | Working |
+
 
