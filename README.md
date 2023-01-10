@@ -6,6 +6,8 @@
 
 ## Configuration
 
+#PC Configuration
+
 | Specifications | Detail                                                  |
 | ------------------- | ------------------------------------------- |
 | Mainboard model | Asrock B560M-HDV R2.0 |
@@ -17,6 +19,31 @@
 | Sound Card | Realtek ALC897 (layout-id: 13) |
 | Wireless Card | Broadcom BCM94360NG WIFI 5 |
 | Ethernet | Intel I219V |
+
+#Bootloader Configuration
+
+| Config | Detail                                                  |
+| ------------------- | ------------------------------------------- |
+| Bootloader type | OpenCore |
+| SMBIOS model | iMac20,1 |
+| Supported MacOS | Monterey - Ventura |
+
+#BIOS Configuration
+
+| Config | Detail                                                  |
+| ------------------- | ------------------------------------------- |
+| BIOS Type | UEFI |
+| SATA Type | AHCI |
+| XHCI Handoff | ON |
+| Resizable Bar | ON |
+| CFG LOCK | OFF |
+| SR-IoV | OFF 
+| VT-d | OFF |
+| VT-x| ON |
+| Trusted Platform | OFF |
+| CSM | OFF |
+| iGPU Multi Monitor | ON |
+
 
 ## Current Status
 
