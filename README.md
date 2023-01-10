@@ -3,12 +3,12 @@
 ## Prerequisite
 
 Devices Running Windows, MacOS or Linux
-- Python
-- Propper tree (for editing config to add serial number)
+- Python [Here](https://www.python.org/)
+- Propper tree (for editing config to add serial number) [Here](https://github.com/corpnewt/ProperTree)
 - EFI mounter tools (ex. Minitool Partition Wiz)
 - Flashdrive 16GB or higher
-- Balena Etcher
-- MacOS Vanilla Images Ver(12 - 13)
+- Balena Etcher [Here](https://www.balena.io/)
+- MacOS Vanilla Images Ver(12 - 13) [Here](https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos-installer/)
 
 ## Preview
 
