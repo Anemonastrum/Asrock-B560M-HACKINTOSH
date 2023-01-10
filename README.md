@@ -4,6 +4,7 @@
 
 Devices Running Windows, MacOS or Linux
 - Python [Here](https://www.python.org/)
+- GenSMBIOS [Here](https://github.com/corpnewt/GenSMBIOS)
 - Propper tree (for editing config to add serial number) [Here](https://github.com/corpnewt/ProperTree)
 - EFI mounter tools (ex. Minitool Partition Wiz)
 - Flashdrive 16GB or higher
@@ -83,7 +84,7 @@ Stable Enough to be used as Daily Driver!
 - Configure the Serial Number, ETC to the config
 - Flash the MacOS image to the flashdrive
 - Mount the flashdrive EFI partition
-- Copy the EFI configuration to the flashdrive EFI partition'
+- Copy the EFI configuration to the flashdrive EFI partition
 - Unmount the flashdrive EFI parition
 - Boot the flashdrive and install :)
 
