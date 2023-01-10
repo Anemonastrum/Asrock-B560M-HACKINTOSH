@@ -60,5 +60,18 @@ BIOS Configuration
 | Things | Status                                                  |
 | ------------------- | ------------------------------------------- |
 | Airdrop | Working |
+| Sidecar | Working |
+| iMessage | Working |
+| Facetime | Working |
+| AppleID | Working |
+| DRM | Working |
+| Sleep | Working |
+| RX 6600 XT Acceleration | Working |
+| Headless Intel UHD 620 | Working |
+| Sound | Working |
+| Wifi | Working |
+| Bluetooth | Working |
+| dGPU Display Out | Working |
+| Onboard Display Out | Not Working |
 
 
